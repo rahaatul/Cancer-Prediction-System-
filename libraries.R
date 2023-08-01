@@ -1,0 +1,21 @@
+### Install Packages for the Project
+install.packages("rvest")
+install.packages("dplyr")
+install.packages("tidyverse")
+install.packages("stringr")
+install.packages("shiny")
+install.packages("shinydashboard")
+install.packages("shinythemes")
+install.packages("DT")
+install.packages("leaflet")
+
+### Include the library
+library(rvest)
+library(dplyr)
+library(tidyverse)
+library(stringr)
+library(shiny)
+library(shinydashboard)
+library(shinythemes)
+library(DT)
+library(leaflet)
